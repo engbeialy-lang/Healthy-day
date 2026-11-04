@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 import pandas as pd
 import os
@@ -262,4 +261,3 @@ else:
     st.markdown("---")
 
     st.caption("💚 مشروع تعليمي بسيط بلغة بايثون باستخدام Streamlit - CODEleader Academy")
-```
