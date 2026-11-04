@@ -1,9 +1,3 @@
 streamlit
-requests
 pandas
 matplotlib
-deep-translator
-groq
-pypdf
-Pillow
-pytesseract
